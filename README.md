@@ -30,8 +30,3 @@ Contenido:
 - Estado (Pendiente / En progreso / Bloqueada)
 - Descripción libre con todo el contexto relevante: qué hay que hacer,
   consecuencias de no hacerlo, dependencias con otras tareas, qué tan avanzado está.
-
-## Estructura del repo
-
-active/   → tareas pendientes o en curso
-done/     → tareas completadas (no se borran, se mueven aquí)
