@@ -1,6 +1,6 @@
-# Realizar el proyecto de física
+# Realizar el proyecto de Física II
 
-**Deadline:** 18/06/2026
+**Deadline:** 17/06/2026
 
 ## Descripción
-Una vez sepamos que proyecto realizar, debemos llevarlo a cabo, simple. Si no lo hago no puedo presentar el proyecto.
+Realizar el siguiente proyecto con mi compañero Giuseppe: "Proyecto de inducción electromagnética basado en la Ley de Faraday: se enrolla alambre de cobre esmaltado alrededor de un tubo de cartón (rollo de papel higiénico), dejando los dos extremos libres y sin esmalte para conectarlos a un multímetro en modo mV, luego se introduce y retira un imán de barra por dentro del tubo y el multímetro detecta el voltaje inducido variando entre positivo y negativo según la dirección del movimiento, demostrando que un campo magnético en cambio genera una fuerza electromotriz. Los materiales necesarios son un rollo de alambre de cobre esmaltado, un tubo de cartón, un imán de barra, cinta adhesiva y el multímetro del laboratorio." Se entrega el 18 de junio. Si no lo entregamos, Giuseppe y yo podriamos raspar la materi

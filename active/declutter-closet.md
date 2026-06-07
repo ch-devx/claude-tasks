@@ -1,6 +1,6 @@
-# Declutter closet
+# Ordernar y limpiar closet
 
 **Deadline:** sin deadline
 
 ## Descripción
-En mi closet tengo mucha basura, papeles y evaluaciones viejas de la universidad, facturas viejas, cosas que ya no uso, estaría bueno organizarlo y botar lo que se pueda botar. Si no lo hago me quedaré con el closet desordenado.
+Tengo varias cosas en mi clóset, algunas se pueden botar, pero la prioridad creo que sería optimizar el espacio disponible y limpiar el polvo.
