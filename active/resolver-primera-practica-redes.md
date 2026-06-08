@@ -3,4 +3,4 @@
 **Deadline:** 10/06/2026
 
 ## Descripción
-En 2 semanas tengo una evaluación de Redes, voy bastante mal así que es momento de tomárselo en serio, no tengo demasiados conocimientos, asi que la idea es empezar a repasar todo desde el principio y lograr resolver la primera práctica en Packet Tracer yo solo. Si no lo hago pierdo la posibilidad de practicar.
+En cualquier momento antes del jueves 11 se podría activar la 3ra evaluación online de Redes, que consiste en una parte teórica (que resolveré con AI) y una parte práctica, donde nos entregarán un archivo .pkt disfuncional y deberemos configurar los equipos (routers, switches, multilayers, etc.) para que la red haga ping correctamente.
