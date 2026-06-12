@@ -1,4 +1,4 @@
-# Hacer la casa en el server de Minecraft
+# Terminar la casa en el server de Minecraft
 
 **Deadline:** sin deadline
 
