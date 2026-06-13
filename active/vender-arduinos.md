@@ -1,0 +1,4 @@
+# Vender los arduinos y demas componentes
+
+## Descripción
+Hace varios meses compré por Mercado Libre dos arduino uno, una protoboard, una pantallita oled y varios cables jumpers, era para un proyecto de la universidad, los tengo guardados, todo junto costó como 50$ y los compramos entre 5 personas para dicho proyecto. No pienso usarlos y vendiéndolos puedo sacar algo de dinero, me parece justo darles su parte a cada uno, a pesar de que seguro no se recuerdan al respecto y no me van a pedir que lo haga. Lo ideal sería publicar en marketplace o el grupo de compra-venta de la unefa. Si no lo hago, me quedaré todo eso acá guardado.
